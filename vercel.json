@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/Cost-to-efficiency.html"
+      "destination": "/team.html"
     }
   ]
 }
